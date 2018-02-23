@@ -186,4 +186,11 @@ http://node.romarin.ovh1.ec-m.fr/
 Publication sur le serveur
 ==========================
 
-modifier les attributs du server dans le fichier config.js
+Modifier les attributs du server dans le fichier config.js
+
+Sources
+^^^^^^^
+* https://github.com/FrancoisBrucker/web_serveur/blob/master/source/cours_2_3_1_crud.rst
+* http://blog.chapagain.com.np/node-js-express-mysql-simple-add-edit-delete-view-crud/
+* http://www.sqlitetutorial.net/sqlite-nodejs/
+* https://codeforgeek.com/2014/07/node-sqlite-tutorial/
